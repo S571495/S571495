@@ -1,9 +1,5 @@
 ### Hi there 👋
 
-<!--
-**S571495/S571495** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Webapps
 - 🌱 I’m currently learning Java, Web Application
@@ -13,4 +9,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: S571495@nwmissouri.edu
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
